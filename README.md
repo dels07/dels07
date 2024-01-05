@@ -2,7 +2,7 @@
 
 > I used to be an IT manager some time ago. But I loved the programming world, so in 2017, I decided to work on a tech startup until today.
 
-My real name is Deli. Besides programming, I'm a father with three kids, and I spend my free time with them. What about my job? I love to exchange knowledge and experience with others and find a way to motivate teams. Improving the development process is really important for me. Combining these interests and skills, I feel responsible for writing documentation, proposing conventions, or setting code-quality recommendations and making the way easier for others every time I have the opportunity. 🤗
+My full name is Deli Soetiawan, live in Bandung, Indonesia. Besides programming, I'm a father with three kids, and I spend my free time with them. What about my job? I love to exchange knowledge and experience with others and find a way to motivate teams. Improving the development process is really important for me. Combining these interests and skills, I feel responsible for writing documentation, proposing conventions, or setting code-quality recommendations and making the way easier for others every time I have the opportunity. 🤗
 
 ## My career path
 
